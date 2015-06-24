@@ -9,7 +9,7 @@ Twitter-Bootstrap and Rails.
 
 #### Creating Dashboard with Ember.js, Twiter-Bootstrap, Rails.
 
-bash> rails _4.2.1_ new dashboard --skip-test-unit --skip-active-record
+bash> rails _4.2.2_ new dashboard --skip-test-unit --skip-active-record
         --skip-spring --skip-turbolinks
 
 Then we want to add the route that will render our dashboard.
